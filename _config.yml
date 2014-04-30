@@ -1,6 +1,6 @@
 paginate: 10
 permalink: pretty
-name: schneiderik
-description: The blog of Erik Schneider
+name: joemsak
+description: The blog of Joe Sak
 pygments: true
 exclude: ['vendor']
